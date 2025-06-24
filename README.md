@@ -86,7 +86,7 @@ DELETE /api/employees/:id     ➤ Delete employee
 
 <p>
   <b>✅ Register Admin in Postman:</b><br />
-  <img src=""C:\Users\nehan\Downloads\screen shot.jpeg"" width="700" alt="Postman Register Screenshot" />
+  <img src="![image alt](https://github.com/Neha-20-bit/Neha-20-bit/blob/main/screen%20shot.jpeg?raw=true)" width="700" alt="Postman Register Screenshot" />
 </p>
 
 ---
