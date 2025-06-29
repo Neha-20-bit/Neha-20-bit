@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💼 Employee CRUD Admin Web App - Prodigy FS Internship Task 01</h1>
+<h1 align="center">👩‍💼 Employee CRUD Admin Web App - Prodigy FS Internship Task 02</h1>
 
 <p align="center">
   A secure and simple web app for administrators to manage employee data with full CRUD functionality, authentication, and validation.
